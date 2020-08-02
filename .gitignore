@@ -1,0 +1,11 @@
+# gitignore
+
+
+venv/*
+
+.idea/*
+
+
+
+
+
