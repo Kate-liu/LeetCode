@@ -19,3 +19,22 @@ This is my leetcode answer repository.
 
 wait sometimes ......
 
+
+
+## Practice make perfect
+
+- Valid Palindrome (验证回文串)
+    - LeetCode: [valid-palindrome](https://leetcode-cn.com/problems/valid-palindrome/)
+    - localAnswer: 
+
+
+
+
+
+
+
+
+
+
+
+
