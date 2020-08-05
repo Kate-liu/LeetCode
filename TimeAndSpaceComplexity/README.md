@@ -1,7 +1,7 @@
 # Time and Space Complexity analyse
 
 
-## c
+## Big O notation
 
 - O(1): Constant Complexity （常数复杂度）
 
