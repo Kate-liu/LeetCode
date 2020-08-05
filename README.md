@@ -25,7 +25,7 @@ wait sometimes ......
 
 - Valid Palindrome (验证回文串)
     - LeetCode: [valid-palindrome](https://leetcode-cn.com/problems/valid-palindrome/)
-    - localAnswer: 
+    - localAnswer: [valid-palindrome](./LeetCodePractice/src/ValidPalindrome/[125]验证回文串.java)
 
 
 
