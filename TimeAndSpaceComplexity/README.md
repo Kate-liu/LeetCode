@@ -1,7 +1,7 @@
 # Time and Space Complexity analyse
 
 
-## Big O notation
+## c
 
 - O(1): Constant Complexity （常数复杂度）
 
@@ -17,8 +17,8 @@
 
 - O(n!): Factorial (阶乘时间复杂度)
 
-- Picture
 ![](./Data/Big%20O%20notation.jpeg)
+
 
 ### O(1): Constant Complexity （常数复杂度）
 
