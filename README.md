@@ -41,7 +41,8 @@ PS: Practice make perfect
 
 - Move Zeroes (移动零)
     - LeetCode: [Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)
-    - localAnswer: [Move Zeroes](./LeetCodePractice/src/MoveZeroes/[283]移动零.java)
+    - localAnswer-java: [Move Zeroes](./LeetCodePractice/src/MoveZeroes/[283]移动零.java)
+    - localAnswer-python: [Move Zeroes](./LeetCodePractice/src/MoveZeroes/[283]移动零.py)
 
 - LRU Cache (LRU缓存机制)
     - LeetCode: [LRU Cache](https://leetcode-cn.com/problems/lru-cache/)
