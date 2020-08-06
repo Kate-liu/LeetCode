@@ -62,6 +62,15 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-python01: [Climbing Stairs](./LeetCodePractice/src/ClimbingStairs/[70]爬楼梯01.py)
     - localAnswer-python02: [Climbing Stairs](./LeetCodePractice/src/ClimbingStairs/[70]爬楼梯02.py)
 
+- Two Sum (两数之和)
+    - LeetCode: [Two Sum](https://leetcode-cn.com/problems/two-sum/)
+    - localAnswer-java: [Two Sum](./LeetCodePractice/src/TwoSum/[1]两数之和.java)
+
+- Three Sum (三数之和)
+    - LeetCode: [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)
+    - localAnswer-java01: [Container With Most Water](./LeetCodePractice/src/ThreeSum/[15]三数之和01.java)
+    - localAnswer-java02: [Container With Most Water](./LeetCodePractice/src/ThreeSum/[15]三数之和02.java)
+
 
 - LRU Cache (LRU缓存机制)
     - LeetCode: [LRU Cache](https://leetcode-cn.com/problems/lru-cache/)
