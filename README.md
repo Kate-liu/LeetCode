@@ -76,19 +76,53 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - LeetCode: [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)
     - localAnswer-java: [Linked List Cycle](./LeetCodePractice/src/LinkedListCycle/[141]环形链表.java)
 
+-  ()
+    - LeetCode: []()
+    
+- wait sometimes ......
 
 
+
+### Wait Practice
 
 - LRU Cache (LRU缓存机制)
     - LeetCode: [LRU Cache](https://leetcode-cn.com/problems/lru-cache/)
     - localAnswer: [LRU Cache](./LeetCodePractice/src/LRUCache/[146]LRU缓存机制.java)
 
+- Reverse Linked List (反转链表)
+    - LeetCode: [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)
 
+- Swap Nodes in Pairs (两两交换链表中的节点)
+    - LeetCode: [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
+- Linked List Cycle II (环形链表 II)
+    - LeetCode: [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
 
+- Reverse Nodes in k-Group (K 个一组翻转链表)
+    - LeetCode: [Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
 
+- Remove Duplicates from Sorted Array (删除排序数组中的重复项)
+    - LeetCode: [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
 
+- Rotate Array (旋转数组)
+    - LeetCode: [Rotate Array](https://leetcode-cn.com/problems/rotate-array/)
 
+- Merge Two Sorted Lists (合并两个有序链表)
+    - LeetCode: [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+
+- Merge Sorted Array (合并两个有序数组)
+    - LeetCode: [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)
+
+- Plus One (加一)
+    - LeetCode: [Plus One](https://leetcode-cn.com/problems/plus-one/)
+
+-  ()
+    - LeetCode: []()
+
+-  ()
+    - LeetCode: []()
+
+- wait sometimes ......
 
 
 
