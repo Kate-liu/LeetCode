@@ -67,9 +67,14 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-java: [Two Sum](./LeetCodePractice/src/TwoSum/[1]两数之和.java)
 
 - Three Sum (三数之和)
-    - LeetCode: [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)
-    - localAnswer-java01: [Container With Most Water](./LeetCodePractice/src/ThreeSum/[15]三数之和01.java)
-    - localAnswer-java02: [Container With Most Water](./LeetCodePractice/src/ThreeSum/[15]三数之和02.java)
+    - LeetCode: [Three Sum](https://leetcode-cn.com/problems/container-with-most-water/)
+    - localAnswer-java01: [Three Sum](./LeetCodePractice/src/ThreeSum/[15]三数之和01.java)
+    - localAnswer-java02: [Three Sum](./LeetCodePractice/src/ThreeSum/[15]三数之和02.java)
+    - localAnswer-python: [Three Sum](./LeetCodePractice/src/ThreeSum/[15]三数之和.py)
+
+- Linked List Cycle (环形链表)
+    - LeetCode: [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)
+
 
 
 - LRU Cache (LRU缓存机制)

@@ -59,6 +59,8 @@ class Solution02 {
                     while (L < R && nums[R] == nums[R - 1]) {
                         R--;
                     }
+                    L++;
+                    R--;
                 } else if (sum < 0) {  // 前提是排序好的数组，进行夹逼
                     L++;
                 } else if (sum > 0) {  // 前提是排序好的数组，进行夹逼
