@@ -36,8 +36,12 @@ wait sometimes ......
 PS: Practice make perfect
 
 - Valid Palindrome (验证回文串)
-    - LeetCode: [valid-palindrome](https://leetcode-cn.com/problems/valid-palindrome/)
-    - localAnswer: [valid-palindrome](./LeetCodePractice/src/ValidPalindrome/[125]验证回文串.java)
+    - LeetCode: [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/)
+    - localAnswer: [Valid Palindrome](./LeetCodePractice/src/ValidPalindrome/[125]验证回文串.java)
+
+- Move Zeroes (移动零)
+    - LeetCode: [Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)
+    - localAnswer: [Move Zeroes](./LeetCodePractice/src/MoveZeroes/[283]移动零.java)
 
 - LRU Cache (LRU缓存机制)
     - LeetCode: [LRU Cache](https://leetcode-cn.com/problems/lru-cache/)
