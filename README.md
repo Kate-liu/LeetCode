@@ -4,7 +4,14 @@ This is my leetcode answer repository.
 
 I hope to help you.
 
-![LeetCodeOutline](./LeetCodeOutline.png)
+- Outline:
+
+    ![LeetCodeOutline](./LeetCodeOutline.png)
+
+- Complexity:
+
+    ![Complexity](./Data/Common%20Data%20Structure%20Operations%20complexity.png)
+
 
 
 ## Algorithm Outline
@@ -20,6 +27,11 @@ I hope to help you.
 ## Array、Linked and Skip List
 
 [ArrayAndLinkedAndSkipList](./ArrayAndLinkedAndSkipList/README.md)
+
+
+## Stack、Queue、Deque and Priority Queue 
+
+[StackAndQueueAndDequeaAndPriorityQueue](./StackAndQueueAndDequeaAndPriorityQueue/README.md)
 
 
 
