@@ -76,6 +76,12 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - LeetCode: [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)
     - localAnswer-java: [Linked List Cycle](./LeetCodePractice/src/LinkedListCycle/[141]环形链表.java)
 
+- Permutations (全排列)
+    - LeetCode: [Permutations](https://leetcode-cn.com/problems/permutations/)
+    - localAnswer-python01: [Permutations](./LeetCodePractice/src/Permutations/[46]全排列01.py)
+    - localAnswer-python01: [Permutations](./LeetCodePractice/src/Permutations/[46]全排列02.py)
+
+
 -  ()
     - LeetCode: []()
     
