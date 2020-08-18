@@ -99,8 +99,15 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-python2: [Valid Parentheses](./LeetCodePractice/src/ValidParentheses/[20]有效的括号2.py)
     - localAnswer-java: [Valid Parentheses](./LeetCodePractice/src/ValidParentheses/[20]有效的括号.java)
 
+- Min Stack ()
+    - LeetCode: [Min Stack](https://leetcode-cn.com/problems/min-stack/submissions/)
+    - localAnswer-python: [Min Stack](./LeetCodePractice/src/MinStack/[155]最小栈.py)
+    - localAnswer-java: [Min Stack]()
+
 -  ()
     - LeetCode: [](./)
+    - localAnswer-python: []()
+    - localAnswer-java: []()
     
 - wait sometimes ......
 
