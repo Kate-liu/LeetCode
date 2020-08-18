@@ -93,9 +93,14 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-python01: [Permutations](./LeetCodePractice/src/Permutations/[46]全排列01.py)
     - localAnswer-python01: [Permutations](./LeetCodePractice/src/Permutations/[46]全排列02.py)
 
+- Valid Parentheses (有效的括号)
+    - LeetCode: [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)
+    - localAnswer-python1: [Valid Parentheses](./LeetCodePractice/src/ValidParentheses/[20]有效的括号1.py)
+    - localAnswer-python2: [Valid Parentheses](./LeetCodePractice/src/ValidParentheses/[20]有效的括号2.py)
+    - localAnswer-java: [Valid Parentheses]()
 
 -  ()
-    - LeetCode: []()
+    - LeetCode: [](./)
     
 - wait sometimes ......
 
