@@ -130,7 +130,9 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
 
 - Group Anagrams (字母异位词分组)
     - LeetCode: [Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/)
-    - localAnswer-python: [Group Anagrams](./)
+    - localAnswer-python1: [Group Anagrams](./LeetCodePractice/src/GroupAnagrams/[49]字母异位词分组1.py)
+    - localAnswer-python2: [Group Anagrams](./LeetCodePractice/src/GroupAnagrams/[49]字母异位词分组2.py)
+    - localAnswer-python3: [Group Anagrams](./LeetCodePractice/src/GroupAnagrams/[49]字母异位词分组3.py)
     - localAnswer-java1: [Group Anagrams](./LeetCodePractice/src/GroupAnagrams/[49]字母异位词分组1.java)
     - localAnswer-java2: [Group Anagrams](./LeetCodePractice/src/GroupAnagrams/[49]字母异位词分组2.java)
 
