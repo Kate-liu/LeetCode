@@ -120,6 +120,13 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-python2: [Sliding Window Maximum](./LeetCodePractice/src/SlidingWindowMaximum/[239]滑动窗口最大值2.py)
     - localAnswer-java: [Sliding Window Maximum](./LeetCodePractice/src/SlidingWindowMaximum/[239]滑动窗口最大值.java)
 
+- Valid Anagram (有效的字母异位词)
+    - LeetCode: [Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/)
+    - localAnswer-python1: [Valid Anagram](./LeetCodePractice/src/ValidAnagram/[242]有效的字母异位词1.py)
+    - localAnswer-python2: [Valid Anagram](./LeetCodePractice/src/ValidAnagram/[242]有效的字母异位词2.py)
+    - localAnswer-python3: [Valid Anagram](./LeetCodePractice/src/ValidAnagram/[242]有效的字母异位词3.py)
+    - localAnswer-java: [Valid Anagram](./)
+
 -  ()
     - LeetCode: []()
     - localAnswer-python: [](./)
