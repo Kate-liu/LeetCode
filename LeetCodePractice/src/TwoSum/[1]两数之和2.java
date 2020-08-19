@@ -12,26 +12,33 @@ package TwoSum;//给定一个整数数组 nums 和一个目标值 target，请�
 //所以返回 [0, 1]
 // 
 // Related Topics 数组 哈希表 
-// 👍 8829 👎 0
+// 👍 8938 👎 0
 
+
+import java.util.HashMap;
+import java.util.Map;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution2 {
     public int[] twoSum(int[] nums, int target) {
-        // 双重for循环
-        // O(n^2)
-        int[] a = new int[2];
-        int numsSize = nums.length;
-        for (int i = 0; i < numsSize - 1; i++) {
-            for (int j = i + 1; j < numsSize; j++) {
-                if (nums[i] + nums[j] == target) {
-                    a[0] = i;
-                    a[1] = j;
-                    return a;
-                }
+        // Time complexity is O(N)
+        int[] result = new int[2];
+
+        Map<Integer, Integer> map = new HashMap<Integer, Integer>();
+
+        for (int i = 0; i < nums.length; i++) {
+            // target value is contains in the map
+            if (map.containsKey(target - nums[i])) {
+                result[1] = i;
+                result[0] = map.get(target - nums[i]);
+                return result;
             }
+
+            map.put(nums[i], i);
         }
-        return new int[0];
+
+        return result;
+
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

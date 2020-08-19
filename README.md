@@ -80,7 +80,8 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
 
 - Two Sum (两数之和)
     - LeetCode: [Two Sum](https://leetcode-cn.com/problems/two-sum/)
-    - localAnswer-java: [Two Sum](./LeetCodePractice/src/TwoSum/[1]两数之和.java)
+    - localAnswer-java1: [Two Sum](./LeetCodePractice/src/TwoSum/[1]两数之和1.java)
+    - localAnswer-java2: [Two Sum](./LeetCodePractice/src/TwoSum/[1]两数之和2.java)
     - localAnswer-python: [Two Sum](./LeetCodePractice/src/TwoSum/[1]两数之和.py)
 
 - Three Sum (三数之和)
