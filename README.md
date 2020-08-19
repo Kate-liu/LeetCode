@@ -108,7 +108,7 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - LeetCode: [ Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
     - localAnswer-python1: [ Largest Rectangle in Histogram](./LeetCodePractice/src/LargestRectangleinHistogram/[84]柱状图中最大的矩形1.py)
     - localAnswer-python2: [ Largest Rectangle in Histogram](./LeetCodePractice/src/LargestRectangleinHistogram/[84]柱状图中最大的矩形2.py)
-    - localAnswer-java: [ Largest Rectangle in Histogram](./LeetCodePractice/src/LargestRectangleinHistogram/[84]柱状图中最大的矩形2.py)
+    - localAnswer-java: [ Largest Rectangle in Histogram](./LeetCodePractice/src/LargestRectangleinHistogram/[84]柱状图中最大的矩形.java)
 
 -  ()
     - LeetCode: []()
