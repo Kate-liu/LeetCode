@@ -110,6 +110,12 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-python2: [ Largest Rectangle in Histogram](./LeetCodePractice/src/LargestRectangleinHistogram/[84]柱状图中最大的矩形2.py)
     - localAnswer-java: [ Largest Rectangle in Histogram](./LeetCodePractice/src/LargestRectangleinHistogram/[84]柱状图中最大的矩形.java)
 
+- Sliding Window Maximum (滑动窗口最大值)
+    - LeetCode: [Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/)
+    - localAnswer-python1: [Sliding Window Maximum](./LeetCodePractice/src/SlidingWindowMaximum/[239]滑动窗口最大值1.py)
+    - localAnswer-python2: [Sliding Window Maximum](./LeetCodePractice/src/SlidingWindowMaximum/[239]滑动窗口最大值2.py)
+    - localAnswer-java: [Sliding Window Maximum](./LeetCodePractice/src/SlidingWindowMaximum/[239]滑动窗口最大值.java)
+
 -  ()
     - LeetCode: []()
     - localAnswer-python: [](./)
@@ -152,11 +158,21 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
 - Plus One (加一)
     - LeetCode: [Plus One](https://leetcode-cn.com/problems/plus-one/)
 
--  ()
-    - LeetCode: []()
+- Design Circular Deque (设计循环双端队列)
+    - LeetCode: [Design Circular Deque](https://leetcode-cn.com/problems/design-circular-deque/)
+    - localAnswer-python: [Design Circular Deque](./)
+    - localAnswer-java: [Design Circular Deque](./)
+
+- Trapping Rain Water (接雨水)
+    - LeetCode: [Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)
+    - localAnswer-python: [Trapping Rain Water](./)
+    - localAnswer-java: [Trapping Rain Water](./)
 
 -  ()
     - LeetCode: []()
+    - localAnswer-python: [](./)
+    - localAnswer-java: [](./)
+
 
 - wait sometimes ......
 
