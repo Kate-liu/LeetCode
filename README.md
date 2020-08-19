@@ -104,10 +104,16 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-python: [Min Stack](./LeetCodePractice/src/MinStack/[155]最小栈.py)
     - localAnswer-java: [Min Stack](./LeetCodePractice/src/MinStack/[155]最小栈.java)
 
+- Largest Rectangle in Histogram (柱状图中最大的矩形)
+    - LeetCode: [ Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
+    - localAnswer-python1: [ Largest Rectangle in Histogram](./LeetCodePractice/src/LargestRectangleinHistogram/[84]柱状图中最大的矩形1.py)
+    - localAnswer-python2: [ Largest Rectangle in Histogram](./LeetCodePractice/src/LargestRectangleinHistogram/[84]柱状图中最大的矩形2.py)
+    - localAnswer-java: [ Largest Rectangle in Histogram](./LeetCodePractice/src/LargestRectangleinHistogram/[84]柱状图中最大的矩形2.py)
+
 -  ()
-    - LeetCode: [](./)
-    - localAnswer-python: []()
-    - localAnswer-java: []()
+    - LeetCode: []()
+    - localAnswer-python: [](./)
+    - localAnswer-java: [](./)
     
 - wait sometimes ......
 
