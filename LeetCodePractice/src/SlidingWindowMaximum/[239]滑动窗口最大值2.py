@@ -63,7 +63,7 @@ class Solution(object):
             if i - bigger[0] >= k:
                 bigger.popleft()
 
-            if i + 1 >= k:
+            if i >= k - 1:
                 ans.append(nums[bigger[0]])
 
         return ans
