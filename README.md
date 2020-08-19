@@ -125,7 +125,8 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-python1: [Valid Anagram](./LeetCodePractice/src/ValidAnagram/[242]有效的字母异位词1.py)
     - localAnswer-python2: [Valid Anagram](./LeetCodePractice/src/ValidAnagram/[242]有效的字母异位词2.py)
     - localAnswer-python3: [Valid Anagram](./LeetCodePractice/src/ValidAnagram/[242]有效的字母异位词3.py)
-    - localAnswer-java: [Valid Anagram](./)
+    - localAnswer-java1: [Valid Anagram](./LeetCodePractice/src/ValidAnagram/[242]有效的字母异位词1.java)
+    - localAnswer-java2: [Valid Anagram](./LeetCodePractice/src/ValidAnagram/[242]有效的字母异位词2.java)
 
 -  ()
     - LeetCode: []()
