@@ -154,7 +154,8 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-python1: [Binary Tree Inorder Traversal](./LeetCodePractice/src/BinaryTreeInorderTraversal/[94]二叉树的中序遍历1.py)
     - localAnswer-python2: [Binary Tree Inorder Traversal](./LeetCodePractice/src/BinaryTreeInorderTraversal/[94]二叉树的中序遍历2.py)
     - localAnswer-python3: [Binary Tree Inorder Traversal](./LeetCodePractice/src/BinaryTreeInorderTraversal/[94]二叉树的中序遍历3.py)
-    - localAnswer-java: [Binary Tree Inorder Traversal](./)
+    - localAnswer-java1: [Binary Tree Inorder Traversal](./LeetCodePractice/src/BinaryTreeInorderTraversal/[94]二叉树的中序遍历1.java)
+    - localAnswer-java2: [Binary Tree Inorder Traversal](./LeetCodePractice/src/BinaryTreeInorderTraversal/[94]二叉树的中序遍历2.java)
 
 -  ()
     - LeetCode: []()
