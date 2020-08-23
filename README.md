@@ -167,7 +167,7 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-python1: [Generate Parentheses](./LeetCodePractice/src/GenerateParentheses/[22]括号生成1.py)
     - localAnswer-python2: [Generate Parentheses](./LeetCodePractice/src/GenerateParentheses/[22]括号生成2.py)
     - localAnswer-python3: [Generate Parentheses](./LeetCodePractice/src/GenerateParentheses/[22]括号生成3.py)
-    - localAnswer-java: [Generate Parentheses](./)
+    - localAnswer-java: [Generate Parentheses](./LeetCodePractice/src/GenerateParentheses/[22]括号生成.java)
 
 -  ()
     - LeetCode: []()
