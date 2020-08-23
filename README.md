@@ -171,7 +171,9 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
 
 - Validate Binary Search Tree (验证二叉搜索树)
     - LeetCode: [Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)
-    - localAnswer-python: [Validate Binary Search Tree](./)
+    - localAnswer-python1: [Validate Binary Search Tree](./LeetCodePractice/src/ValidateBinarySearchTree/[98]验证二叉搜索树1.py)
+    - localAnswer-python2: [Validate Binary Search Tree](./LeetCodePractice/src/ValidateBinarySearchTree/[98]验证二叉搜索树2.py)
+    - localAnswer-python3: [Validate Binary Search Tree](./LeetCodePractice/src/ValidateBinarySearchTree/[98]验证二叉搜索树3.py)
     - localAnswer-java1: [Validate Binary Search Tree](./LeetCodePractice/src/ValidateBinarySearchTree/[98]验证二叉搜索树1.java)
     - localAnswer-java2: [Validate Binary Search Tree](./LeetCodePractice/src/ValidateBinarySearchTree/[98]验证二叉搜索树2.java)
 
@@ -251,6 +253,16 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - LeetCode: [N-ary Tree Level Order Traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)
     - localAnswer-python: [N-ary Tree Level Order Traversal](./)
     - localAnswer-java: [N-ary Tree Level Order Traversal](./)
+
+- Maximum Depth of Binary Tree (二叉树的最大深度)
+    - LeetCode: [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+    - localAnswer-python: [Maximum Depth of Binary Tree](./)
+    - localAnswer-java: [Maximum Depth of Binary Tree](./)
+
+- Invert Binary Tree (翻转二叉树)
+    - LeetCode: [Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/description/)
+    - localAnswer-python: [Invert Binary Tree](./)
+    - localAnswer-java: [Invert Binary Tree](./)
 
 -  ()
     - LeetCode: []()
