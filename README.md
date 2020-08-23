@@ -161,6 +161,11 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - LeetCode: []()
     - localAnswer-python: [](./)
     - localAnswer-java: [](./)
+
+-  ()
+    - LeetCode: []()
+    - localAnswer-python: [](./)
+    - localAnswer-java: [](./)
     
 - wait sometimes ......
 
@@ -209,11 +214,40 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-python: [Trapping Rain Water](./)
     - localAnswer-java: [Trapping Rain Water](./)
 
+- Binary Tree Preorder Traversal (二叉树的前序遍历)
+    - LeetCode: [Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+    - localAnswer-python: [Binary Tree Preorder Traversal](./)
+    - localAnswer-java: [Binary Tree Preorder Traversal](./)
+
+- Binary Tree Postorder Traversal (二叉树的后序遍历)
+    - LeetCode: [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
+    - localAnswer-python: [Binary Tree Postorder Traversal](./)
+    - localAnswer-java: [Binary Tree Postorder Traversal](./)
+
+- N-ary Tree Postorder Traversal (N叉树的后序遍历)
+    - LeetCode: [N-ary Tree Postorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)
+    - localAnswer-python: [N-ary Tree Postorder Traversal](./)
+    - localAnswer-java: [N-ary Tree Postorder Traversal](./)
+
+- N-ary Tree Preorder Traversal (N叉树的前序遍历)
+    - LeetCode: [N-ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)
+    - localAnswer-python: [N-ary Tree Preorder Traversal](./)
+    - localAnswer-java: [N-ary Tree Preorder Traversal](./)
+
+- N-ary Tree Level Order Traversal (N叉树的层序遍历)
+    - LeetCode: [N-ary Tree Level Order Traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)
+    - localAnswer-python: [N-ary Tree Level Order Traversal](./)
+    - localAnswer-java: [N-ary Tree Level Order Traversal](./)
+
 -  ()
     - LeetCode: []()
     - localAnswer-python: [](./)
     - localAnswer-java: [](./)
 
+-  ()
+    - LeetCode: []()
+    - localAnswer-python: [](./)
+    - localAnswer-java: [](./)
 
 - wait sometimes ......
 
