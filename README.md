@@ -162,10 +162,12 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-java1: [Binary Tree Inorder Traversal](./LeetCodePractice/src/BinaryTreeInorderTraversal/[94]二叉树的中序遍历1.java)
     - localAnswer-java2: [Binary Tree Inorder Traversal](./LeetCodePractice/src/BinaryTreeInorderTraversal/[94]二叉树的中序遍历2.java)
 
--  ()
-    - LeetCode: []()
-    - localAnswer-python: [](./)
-    - localAnswer-java: [](./)
+- Generate Parentheses (括号生成)
+    - LeetCode: [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)
+    - localAnswer-python1: [Generate Parentheses](./LeetCodePractice/src/GenerateParentheses/[22]括号生成1.py)
+    - localAnswer-python2: [Generate Parentheses](./LeetCodePractice/src/GenerateParentheses/[22]括号生成2.py)
+    - localAnswer-python3: [Generate Parentheses](./LeetCodePractice/src/GenerateParentheses/[22]括号生成3.py)
+    - localAnswer-java: [Generate Parentheses](./)
 
 -  ()
     - LeetCode: []()
