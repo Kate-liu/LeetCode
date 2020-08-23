@@ -58,7 +58,7 @@ wait sometimes ......
 ## Tools
 - visualising data structures and algorithms through animation：https://visualgo.net/en
 
-
+- [如何优雅地计算斐波那契数列？](https://time.geekbang.org/dailylesson/detail/100028406)
 
 
 
@@ -264,10 +264,40 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-python: [Invert Binary Tree](./)
     - localAnswer-java: [Invert Binary Tree](./)
 
--  ()
-    - LeetCode: []()
-    - localAnswer-python: [](./)
-    - localAnswer-java: [](./)
+- Minimum Depth of Binary Tree (二叉树的最小深度)
+    - LeetCode: [Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
+    - localAnswer-python: [Minimum Depth of Binary Tree](./)
+    - localAnswer-java: [Minimum Depth of Binary Tree](./)
+
+- Serialize and Deserialize Binary Tree (二叉树的序列化与反序列化)
+    - LeetCode: [Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
+    - localAnswer-python: [Serialize and Deserialize Binary Tree](./)
+    - localAnswer-java: [Serialize and Deserialize Binary Tree](./)
+
+- Lowest Common Ancestor of a Binary Tree (二叉树的最近公共祖先)
+    - LeetCode: [Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+    - localAnswer-python: [Lowest Common Ancestor of a Binary Tree](./)
+    - localAnswer-java: [Lowest Common Ancestor of a Binary Tree](./)
+
+- Construct Binary Tree from Preorder and Inorder Traversal (从前序与中序遍历序列构造二叉树)
+    - LeetCode: [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+    - localAnswer-python: [Construct Binary Tree from Preorder and Inorder Traversal](./)
+    - localAnswer-java: [Construct Binary Tree from Preorder and Inorder Traversal](./)
+
+- Combinations (组合)
+    - LeetCode: [Combinations](https://leetcode-cn.com/problems/combinations/)
+    - localAnswer-python: [Combinations](./)
+    - localAnswer-java: [Combinations](./)
+
+- Permutations (全排列)
+    - LeetCode: [Permutations](https://leetcode-cn.com/problems/permutations/)
+    - localAnswer-python: [Permutations](./)
+    - localAnswer-java: [Permutations](./)
+
+- Permutations II (全排列 II)
+    - LeetCode: [Permutations II](https://leetcode-cn.com/problems/permutations-ii/)
+    - localAnswer-python: [Permutations II](./)
+    - localAnswer-java: [Permutations II](./)
 
 -  ()
     - LeetCode: []()
