@@ -184,10 +184,11 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
 
 - powx-n (Pow(x, n))
     - LeetCode: [powx-n](https://leetcode-cn.com/problems/powx-n/)
-    - localAnswer-python1: [powx-n](./LeetCodePractice/src/powx-n/[50]Pow1.py)
-    - localAnswer-python2: [powx-n](./LeetCodePractice/src/powx-n/[50]Pow2.py)
-    - localAnswer-python3: [powx-n](./LeetCodePractice/src/powx-n/[50]Pow3.py)
-    - localAnswer-java: [powx-n](./)
+    - localAnswer-python1: [powx-n](./LeetCodePractice/src/powxN/[50]Pow1.py)
+    - localAnswer-python2: [powx-n](./LeetCodePractice/src/powxN/[50]Pow2.py)
+    - localAnswer-python3: [powx-n](./LeetCodePractice/src/powxN/[50]Pow3.py)
+    - localAnswer-java1: [powx-n](./LeetCodePractice/src/powxN/[50]Pow1.java)
+    - localAnswer-java2: [powx-n](./LeetCodePractice/src/powxN/[50]Pow2.java)
 
 -  ()
     - LeetCode: []()
