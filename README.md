@@ -192,7 +192,9 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
 
 - Subsets (子集)
     - LeetCode: [Subsets](https://leetcode-cn.com/problems/subsets/)
-    - localAnswer-python: [Subsets](./LeetCodePractice/)
+    - localAnswer-python1: [Subsets](./LeetCodePractice/src/Subsets/[78]子集1.py)
+    - localAnswer-python2: [Subsets](./LeetCodePractice/src/Subsets/[78]子集2.py)
+    - localAnswer-python3: [Subsets](./LeetCodePractice/src/Subsets/[78]子集3.py)
     - localAnswer-java1: [Subsets](./LeetCodePractice/src/Subsets/[78]子集1.java)
     - localAnswer-java2: [Subsets](./LeetCodePractice/src/Subsets/[78]子集2.java)
     - localAnswer-java3: [Subsets](./LeetCodePractice/src/Subsets/[78]子集3.java)
