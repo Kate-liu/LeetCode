@@ -49,6 +49,11 @@ I hope to help you.
 [Recursion](./Recursion/README.md)
 
 
+## Divide & Conquer and Backtracking
+
+[DivideAndConquerAndBacktracking](DivideAndConquerAndBacktracking/README.md)
+
+
 ## Some other topic
 
 wait sometimes ......
