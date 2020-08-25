@@ -201,10 +201,20 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-java2: [Subsets](./LeetCodePractice/src/Subsets/[78]子集2.java)
     - localAnswer-java3: [Subsets](./LeetCodePractice/src/Subsets/[78]子集3.java)
 
--  ()
-    - LeetCode: []()
-    - localAnswer-python: [](./)
-    - localAnswer-java: [](./LeetCodePractice/)
+- Majority Element (多数元素)
+    - LeetCode: [Majority Element](https://leetcode-cn.com/problems/majority-element/description/)
+    - localAnswer-python: [Majority Element](./)
+    - localAnswer-java: [Majority Element](./LeetCodePractice/)
+
+- Letter Combinations of a Phone Number (电话号码的字母组合)
+    - LeetCode: [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
+    - localAnswer-python: [Letter Combinations of a Phone Number](./)
+    - localAnswer-java: [Letter Combinations of a Phone Number](./LeetCodePractice/)
+
+- N-Queens (N皇后)
+    - LeetCode: [N-Queens](https://leetcode-cn.com/problems/n-queens/)
+    - localAnswer-python: [N-Queens](./)
+    - localAnswer-java: [N-Queens](./LeetCodePractice/)
 
 -  ()
     - LeetCode: []()
