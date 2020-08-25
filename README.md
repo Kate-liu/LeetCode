@@ -65,7 +65,9 @@ wait sometimes ......
 
 - [如何优雅地计算斐波那契数列？](https://time.geekbang.org/dailylesson/detail/100028406)
 
-
+- 牛顿迭代法
+    - [牛顿迭代法快速寻找平方根](http://www.matrix67.com/blog/archives/361)
+    - [Leetcode Sqrt(x):牛顿迭代法和Quake-III中的神奇方法](http://www.voidcn.com/article/p-eudisdmk-zm.html)
 
 
 ## LeetCode
