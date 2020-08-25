@@ -182,6 +182,23 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-java1: [Validate Binary Search Tree](./LeetCodePractice/src/ValidateBinarySearchTree/[98]验证二叉搜索树1.java)
     - localAnswer-java2: [Validate Binary Search Tree](./LeetCodePractice/src/ValidateBinarySearchTree/[98]验证二叉搜索树2.java)
 
+- powx-n (Pow(x, n))
+    - LeetCode: [powx-n](https://leetcode-cn.com/problems/powx-n/)
+    - localAnswer-python1: [powx-n](./LeetCodePractice/src/powx-n/[50]Pow1.py)
+    - localAnswer-python2: [powx-n](./LeetCodePractice/src/powx-n/[50]Pow2.py)
+    - localAnswer-python3: [powx-n](./LeetCodePractice/src/powx-n/[50]Pow3.py)
+    - localAnswer-java: [powx-n](./)
+
+-  ()
+    - LeetCode: []()
+    - localAnswer-python: [](./)
+    - localAnswer-java: [](./)
+
+-  ()
+    - LeetCode: []()
+    - localAnswer-python: [](./)
+    - localAnswer-java: [](./)
+
 -  ()
     - LeetCode: []()
     - localAnswer-python: [](./)
