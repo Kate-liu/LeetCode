@@ -210,7 +210,7 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
 
 - Letter Combinations of a Phone Number (电话号码的字母组合)
     - LeetCode: [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
-    - localAnswer-python: [Letter Combinations of a Phone Number](./)
+    - localAnswer-python: [Letter Combinations of a Phone Number](./LeetCodePractice/src/LetterCombinationsOfAPhoneNumber/[17]电话号码的字母组合.py)
     - localAnswer-java: [Letter Combinations of a Phone Number](./LeetCodePractice/src/LetterCombinationsOfAPhoneNumber/[17]电话号码的字母组合.java)
 
 - N-Queens (N皇后)
