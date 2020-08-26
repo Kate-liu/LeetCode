@@ -203,8 +203,10 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
 
 - Majority Element (多数元素)
     - LeetCode: [Majority Element](https://leetcode-cn.com/problems/majority-element/description/)
-    - localAnswer-python: [Majority Element](./)
-    - localAnswer-java: [Majority Element](./LeetCodePractice/)
+    - localAnswer-python1: [Majority Element](./LeetCodePractice/src/MajorityElement/[169]多数元素1.py)
+    - localAnswer-python2: [Majority Element](./LeetCodePractice/src/MajorityElement/[169]多数元素2.py)
+    - localAnswer-java1: [Majority Element](./LeetCodePractice/src/MajorityElement/[169]多数元素1.java)
+    - localAnswer-java2: [Majority Element](./LeetCodePractice/src/MajorityElement/[169]多数元素2.java)
 
 - Letter Combinations of a Phone Number (电话号码的字母组合)
     - LeetCode: [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
