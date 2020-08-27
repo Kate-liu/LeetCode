@@ -215,8 +215,8 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
 
 - N-Queens (N皇后)
     - LeetCode: [N-Queens](https://leetcode-cn.com/problems/n-queens/)
-    - localAnswer-python: [N-Queens](./)
-    - localAnswer-java: [N-Queens](./LeetCodePractice/)
+    - localAnswer-python1: [N-Queens](./LeetCodePractice/src/NQueens/[51]N皇后1.py)
+    - localAnswer-python2: [N-Queens](./LeetCodePractice/src/NQueens/[51]N皇后2.py)
 
 -  ()
     - LeetCode: []()
