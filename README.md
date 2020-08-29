@@ -242,7 +242,7 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
 
 - Number of Islands (岛屿数量)
     - LeetCode: [Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)
-    - localAnswer-python: [Number of Islands](./)
+    - localAnswer-python: [Number of Islands](./LeetCodePractice/src/NumberOfIslands/[200]岛屿数量.py)
     - localAnswer-java: [Number of Islands](./LeetCodePractice/src/NumberOfIslands/[200]岛屿数量.java)
 
 -  ()
