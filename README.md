@@ -230,10 +230,10 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-python2: [Binary Tree Level Order Traversal](./LeetCodePractice/src/BinaryTreeLevelOrderTraversal/[102]二叉树的层序遍历2.py)
     - localAnswer-java: [Binary Tree Level Order Traversal](./LeetCodePractice/)
 
--  ()
-    - LeetCode: []()
-    - localAnswer-python: [](./)
-    - localAnswer-java: [](./LeetCodePractice/)
+- Minimum Genetic Mutation (最小基因变化)
+    - LeetCode: [Minimum Genetic Mutation](https://leetcode-cn.com/problems/minimum-genetic-mutation/)
+    - localAnswer-python1: [Minimum Genetic Mutation](./LeetCodePractice/src/MinimumGeneticMutation/[433]最小基因变化1.py)
+    - localAnswer-pytho2n: [Minimum Genetic Mutation](./LeetCodePractice/src/MinimumGeneticMutation/[433]最小基因变化2.py)
 
 -  ()
     - LeetCode: []()
