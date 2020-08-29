@@ -367,6 +367,21 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-python: [Permutations II](./)
     - localAnswer-java: [Permutations II](./)
 
+- Word Ladder (单词接龙)
+    - LeetCode: [Word Ladder](https://leetcode-cn.com/problems/word-ladder/description/)
+    - localAnswer-python: [Word Ladder](./)
+    - localAnswer-java: [Word Ladder](./)
+
+- Word Ladder II (单词接龙 II)
+    - LeetCode: [Word Ladder II](https://leetcode-cn.com/problems/word-ladder-ii/description/)
+    - localAnswer-python: [Word Ladder II](./)
+    - localAnswer-java: [Word Ladder II](./)
+
+- Minesweeper (扫雷游戏)
+    - LeetCode: [Minesweeper](https://leetcode-cn.com/problems/minesweeper/description/)
+    - localAnswer-python: [Minesweeper](./)
+    - localAnswer-java: [Minesweeper](./)
+
 -  ()
     - LeetCode: []()
     - localAnswer-python: [](./)
