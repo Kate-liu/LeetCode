@@ -228,7 +228,7 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - LeetCode: [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
     - localAnswer-python1: [Binary Tree Level Order Traversal](./LeetCodePractice/src/BinaryTreeLevelOrderTraversal/[102]二叉树的层序遍历1.py)
     - localAnswer-python2: [Binary Tree Level Order Traversal](./LeetCodePractice/src/BinaryTreeLevelOrderTraversal/[102]二叉树的层序遍历2.py)
-    - localAnswer-java: [Binary Tree Level Order Traversal](./LeetCodePractice/)
+    - localAnswer-java1: [Binary Tree Level Order Traversal](./LeetCodePractice/src/BinaryTreeLevelOrderTraversal/[102]二叉树的层序遍历1.java)
 
 - Minimum Genetic Mutation (最小基因变化)
     - LeetCode: [Minimum Genetic Mutation](https://leetcode-cn.com/problems/minimum-genetic-mutation/)
