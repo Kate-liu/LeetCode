@@ -59,6 +59,11 @@ I hope to help you.
 [DeepFirstSearchAndBreadthFirstSearch](DeepFirstSearchAndBreadthFirstSearch/README.md)
 
 
+## Greedy Algorithm
+
+[GreedyAlgorithm](GreedyAlgorithm/README.md)
+
+
 
 ## Some other topic
 
@@ -245,6 +250,15 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-python: [Number of Islands](./LeetCodePractice/src/NumberOfIslands/[200]岛屿数量.py)
     - localAnswer-java: [Number of Islands](./LeetCodePractice/src/NumberOfIslands/[200]岛屿数量.java)
 
+- Coin Change (零钱兑换)
+    - LeetCode: [Coin Change](https://leetcode-cn.com/problems/coin-change/)
+    - localAnswer-python: [Coin Change](./LeetCodePractice/src/CoinChange/[322]零钱兑换.py)
+
+- Assign Cookies (分发饼干)
+    - LeetCode: [Assign Cookies](https://leetcode-cn.com/problems/assign-cookies/)
+    - localAnswer-python: [Assign Cookies](./)
+    - localAnswer-java: [Assign Cookies](./)
+
 -  ()
     - LeetCode: []()
     - localAnswer-python: [](./)
@@ -387,7 +401,17 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-python: [](./)
     - localAnswer-java: [](./)
 
-- wait sometimes ......
+-  ()
+    - LeetCode: []()
+    - localAnswer-python: [](./)
+    - localAnswer-java: [](./)
+
+-  ()
+    - LeetCode: []()
+    - localAnswer-python: [](./)
+    - localAnswer-java: [](./)
+
+- wait sometimes ...... 
 
 
 
