@@ -278,6 +278,11 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - LeetCode: []()
     - localAnswer-python: [](./)
     - localAnswer-java: [](./LeetCodePractice/)
+
+-  ()
+    - LeetCode: []()
+    - localAnswer-python: [](./)
+    - localAnswer-java: [](./LeetCodePractice/)
     
 - wait sometimes ......
 
@@ -441,15 +446,25 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-python: [Valid Perfect Square](./)
     - localAnswer-java: [Valid Perfect Square](./)
 
--  ()
-    - LeetCode: []()
-    - localAnswer-python: [](./)
-    - localAnswer-java: [](./)
+- Search a 2D Matrix (搜索二维矩阵)
+    - LeetCode: [Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)
+    - localAnswer-python: [Search a 2D Matrix](./)
+    - localAnswer-java: [Search a 2D Matrix](./)
+
+- Find Minimum in Rotated Sorted Array (寻找旋转排序数组中的最小值)
+    - LeetCode: [Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
+    - localAnswer-python: [Find Minimum in Rotated Sorted Array](./)
+    - localAnswer-java: [Find Minimum in Rotated Sorted Array](./)
 
 -  ()
     - LeetCode: []()
     - localAnswer-python: [](./)
-    - localAnswer-java: [](./)
+    - localAnswer-java: [](./LeetCodePractice/)
+
+-  ()
+    - LeetCode: []()
+    - localAnswer-python: [](./)
+    - localAnswer-java: [](./LeetCodePractice/)
 
 - wait sometimes ...... 
 
