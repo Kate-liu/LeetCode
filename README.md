@@ -64,6 +64,12 @@ I hope to help you.
 [GreedyAlgorithm](GreedyAlgorithm/README.md)
 
 
+## Binary Search
+
+[BinarySearch](BinarySearch/README.md)
+
+
+
 
 ## Some other topic
 
@@ -79,6 +85,7 @@ wait sometimes ......
 - 牛顿迭代法
     - [牛顿迭代法快速寻找平方根](http://www.matrix67.com/blog/archives/361)
     - [Leetcode Sqrt(x):牛顿迭代法和Quake-III中的神奇方法](http://www.voidcn.com/article/p-eudisdmk-zm.html)
+    - [Origin of Quake3's Fast InvSqrt()](https://www.beyond3d.com/content/articles/8/)
 
 
 ## LeetCode
@@ -258,6 +265,15 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - LeetCode: [Assign Cookies](https://leetcode-cn.com/problems/assign-cookies/)
     - localAnswer-python: [Assign Cookies](./LeetCodePractice/src/AssignCookies/[455]分发饼干.py)
 
+- Sqrt(x) (x 的平方根)
+    - LeetCode: [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)
+    - localAnswer-python: [Sqrt(x)](./LeetCodePractice/src/SqrtX/[69]x的平方根1.py)
+    - localAnswer-python: [Sqrt(x)](./LeetCodePractice/src/SqrtX/[69]x的平方根2.py)
+
+- Search in Rotated Sorted Array (搜索旋转排序数组)
+    - LeetCode: [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+    - localAnswer-python: [Search in Rotated Sorted Array](./LeetCodePractice/src/SearchInRotatedSortedArray/[33]搜索旋转排序数组.py)
+
 -  ()
     - LeetCode: []()
     - localAnswer-python: [](./)
@@ -419,6 +435,16 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - LeetCode: [Walking Robot Simulation](https://leetcode-cn.com/problems/walking-robot-simulation/)
     - localAnswer-python: [Walking Robot Simulation](./)
     - localAnswer-java: [Walking Robot Simulation](./)
+
+- Valid Perfect Square (有效的完全平方数)
+    - LeetCode: [Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/)
+    - localAnswer-python: [Valid Perfect Square](./)
+    - localAnswer-java: [Valid Perfect Square](./)
+
+-  ()
+    - LeetCode: []()
+    - localAnswer-python: [](./)
+    - localAnswer-java: [](./)
 
 -  ()
     - LeetCode: []()
