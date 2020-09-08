@@ -395,15 +395,30 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
     - localAnswer-python: [Minesweeper](./)
     - localAnswer-java: [Minesweeper](./)
 
--  ()
-    - LeetCode: []()
-    - localAnswer-python: [](./)
-    - localAnswer-java: [](./)
+- Best Time to Buy and Sell Stock II (买卖股票的最佳时机 II)
+    - LeetCode: [Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
+    - localAnswer-python: [Best Time to Buy and Sell Stock II](./)
+    - localAnswer-java: [Best Time to Buy and Sell Stock II](./)
 
--  ()
-    - LeetCode: []()
-    - localAnswer-python: [](./)
-    - localAnswer-java: [](./)
+- Jump Game (跳跃游戏)
+    - LeetCode: [Jump Game](https://leetcode-cn.com/problems/jump-game/)
+    - localAnswer-python: [Jump Game](./)
+    - localAnswer-java: [Jump Game](./)
+
+- Jump Game II (跳跃游戏 II)
+    - LeetCode: [Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/)
+    - localAnswer-python: [Jump Game II](./)
+    - localAnswer-java: [Jump Game II](./)
+
+- Lemonade Change (柠檬水找零)
+    - LeetCode: [Lemonade Change](https://leetcode-cn.com/problems/lemonade-change/)
+    - localAnswer-python: [Lemonade Change](./)
+    - localAnswer-java: [Lemonade Change](./)
+
+- Walking Robot Simulation (模拟行走机器人)
+    - LeetCode: [Walking Robot Simulation](https://leetcode-cn.com/problems/walking-robot-simulation/)
+    - localAnswer-python: [Walking Robot Simulation](./)
+    - localAnswer-java: [Walking Robot Simulation](./)
 
 -  ()
     - LeetCode: []()
