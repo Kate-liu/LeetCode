@@ -256,8 +256,7 @@ My LeetCode link-cn: https://leetcode-cn.com/u/rmliu/
 
 - Assign Cookies (分发饼干)
     - LeetCode: [Assign Cookies](https://leetcode-cn.com/problems/assign-cookies/)
-    - localAnswer-python: [Assign Cookies](./)
-    - localAnswer-java: [Assign Cookies](./)
+    - localAnswer-python: [Assign Cookies](./LeetCodePractice/src/AssignCookies/[455]分发饼干.py)
 
 -  ()
     - LeetCode: []()
